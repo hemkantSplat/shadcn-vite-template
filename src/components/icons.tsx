@@ -18,6 +18,7 @@ export const Icons = {
       xmlnsXlink="http://www.w3.org/1999/xlink"
       aria-hidden="true"
       role="img"
+      // eslint-disable-next-line tailwindcss/no-custom-classname
       className="iconify iconify--logos"
       width="31.88"
       height="32"
